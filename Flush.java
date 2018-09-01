@@ -2,7 +2,7 @@
 /**
  * This class is used to model a flush in BigTwoGame and is a subclass of Hand
  * 
- * @author Lv Ruyi
+ * @author Zach Lyu
  *
  */
 public class Flush extends Hand{

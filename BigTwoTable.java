@@ -7,7 +7,7 @@ import java.awt.event.*;
 import java.awt.Color;
 
 /**
- * @author Lv Ruyi
+ * @author Zach Lyu
  * 
  * The BigTwoTable class implements the CardGameTable interface. It is used to build a GUI
  * for the Big Two card game and handle all user actions

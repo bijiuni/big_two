@@ -3,7 +3,7 @@ import java.util.ArrayList;
 /**
  * This class is used to model a quad in BigTwoGame and is a subclass of Hand
  * 
- * @author Lv Ruyi
+ * @author Zach Lyu
  *
  */
 public class Quad extends Hand {

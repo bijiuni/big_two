@@ -4,7 +4,7 @@ import java.util.Collections;
 /**
  * The Hand class is a subclass of the CardList class, and is used to model a hand of cards.
  * 
- * @author Lv Ruyi
+ * @author Zach Lyu
  *
  */
 abstract class Hand extends CardList{

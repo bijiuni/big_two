@@ -2,7 +2,7 @@
 /**
  * The class is a subclass of the Deck class, and is used to model a deck of cards used in a Big Two card game.
  * 
- * @author Lv Ruyi
+ * @author Zach Lyu
  *
  */
 public class BigTwoDeck extends Deck {

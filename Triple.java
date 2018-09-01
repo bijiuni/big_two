@@ -2,7 +2,7 @@
 /**
  * This class is used to model a triple in BigTwoGame and is a subclass of Hand
  * 
- * @author Lv Ruyi
+ * @author Zach Lyu
  *
  */
 public class Triple extends Hand{

@@ -1,7 +1,7 @@
 /**
  * This class is used to model a straightflush in BigTwoGame and is a subclass of Hand
  * 
- * @author Lv Ruyi
+ * @author Zach Lyu
  *
  */
 public class StraightFlush extends Hand{
