@@ -88,6 +88,7 @@ selected cards are in a “raised” position.
 ## Deployment
 
 First run _BigTwoServer.java_ to establish a game server
+
 Then run four _BigTwoClient.java_ and respectively connect to server to start a new game
 
 A sample window is shown below.
