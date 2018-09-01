@@ -4,10 +4,12 @@ This project implement a Chinese card game called Big Two. You can refer to the 
 
 The project makes use of OO design, GUI design, networking and multi-threading.
 
-##The following rules are adopted in this implementation:
+## The following rules are adopted in this implementation:
 
 • A standard 52 card pack is used.
+
 • The order of ranks from high to low is 2, A, K, Q, J, 10, 9, 8, 7, 6, 5, 4, 3.
+
 • The order of suits from high to low is Spades, Hearts, Clubs, Diamonds.
 • There are always four players in a game.
 • Each player holds 13 (randomly assigned) cards at the beginning of the game.
@@ -22,7 +24,7 @@ of cards on the table. In this case, he can play a hand of any legal combination
 regardless of the last hand he played on the table.
 • The game ends when any of the players has no more cards in his hand.
 
-##Legal combinations of Cards
+## Legal combinations of Cards
 
 • Single. This hand consists of only one single card. The only card in a single is referred to
 as the top card of this single. A single with a higher rank beats a single with a lower rank.
@@ -61,11 +63,6 @@ straight flush. A straight flush always beats any straights, flushes, full house
 A straight flush having a top card with a higher rank beats a straight flush having a top
 card with a lower rank. For straight flushes having top cards with the same rank, the one
 having a top card with a higher suit beats one having a top card with a lower suit.
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 
 
 ### Graphical User Interface
